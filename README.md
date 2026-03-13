@@ -9,8 +9,11 @@ playwright install chromium
 
 # 使用方法
 1、首先需要自己登录账号，把需要进行上传的一键三联的视频进行一键三联，方便后面自动截图。
+
 2、在电脑运行 python get_login.py 登录自己的账号，登录之后，就会在当前文件目录下生成一个 json文件
+
 3、添加需要截图的b站链接，填写urls.txt
+
 4、运行python auto_screenshot.py 文件，就会开始自动截图，
 
 # 实现效果
