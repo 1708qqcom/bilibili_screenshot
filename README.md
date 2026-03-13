@@ -2,8 +2,10 @@
 主要用于需要批量上传一键三联的视频截图
 
 # 安装第三方软件
+```
 pip install playwright
 playwright install chromium
+```
 
 # 使用方法
 1、首先需要自己登录账号，把需要进行上传的一键三联的视频进行一键三联，方便后面自动截图。
